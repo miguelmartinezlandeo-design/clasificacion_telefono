@@ -1,0 +1,13 @@
+--2026-11-20 21:04:45--  https://update.code.visualstudio.com/commit:8a14f0cc1b08d531eb83255ea3764ae22aa932b5/server-linux-x64/stable
+Resolving update.code.visualstudio.com (update.code.visualstudio.com)... 150.171.109.83
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|150.171.109.83|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://vscode.download.prss.microsoft.com/dbazure/download/stable/8a14f0cc1b08d531eb83255ea3764ae22aa932b5/vscode-server-linux-x64.tar.gz [following]
+--2026-11-20 21:04:46--  https://vscode.download.prss.microsoft.com/dbazure/download/stable/8a14f0cc1b08d531eb83255ea3764ae22aa932b5/vscode-server-linux-x64.tar.gz
+Resolving vscode.download.prss.microsoft.com (vscode.download.prss.microsoft.com)... 2.20.253.97, 2.20.253.85
+Connecting to vscode.download.prss.microsoft.com (vscode.download.prss.microsoft.com)|2.20.253.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 243904137 (233M) [application/octet-stream]
+Saving to: ‘/home/miguel/.vscode-server/bin/8a14f0cc1b08d531eb83255ea3764ae22aa932b5-1795203362.tar.gz’
+
+guel/.vscode  43% 102.10M   129KB/s    eta 44m 7s uel/.vscode-  43% 102.15M   132KB/s    eta 44m 7s el/.vscode-s  43% 102.17M   113KB/s    eta 44m 3s l/.vscode-se  43% 102.19M  99.7KB/s    eta 44m 3s /.vscode-ser  43% 102.21M  88.9KB/s    eta 44m 3s .vscode-serv  43% 102.22M  79.8KB/s    eta 44m 3s vscode-serve  43% 102.23M  78.3KB/s    eta 44m 3s scode-server  43% 102.25M  73.2KB/s    eta 44m 3s code-server/  43% 102.26M  69.4KB/s    eta 44m 3s ode-server/b  43% 102.29M  68.1KB/s    eta 44m 3s de-server/bi  43% 102.30M  65.7KB/s    eta 44m 3s e-server/bin  43% 102.34M  62.8KB/s    eta 44m 3s -server/bin/  44% 102.36M  60.6KB/s    eta 44m 3s server/bin/8  44% 102.38M  59.5KB/s    eta 44m 1s erver/bin/8a  44% 102.39M  54.7KB/s    eta 44m 1s rver/bin/8a1  44% 102.40M  49.4KB/s    eta 44m 2s ver/bin/8a14  44% 102.42M  47.1KB/s    eta 44m 2s er/bin/8a14f  44% 102.42M  43.1KB/s    eta 44m 3s r/bin/8a14f0  44% 102.44M  38.7KB/s    eta 44m 3s /bin/8a14f0c  44% 102.46M  36.3KB/s    eta 44m 3s bin/8a14f0cc  44% 102.48M  33.6KB/s    eta 44m 3s in/8a14f0cc1  44% 102.48M  31.4KB/s    eta 44m 3s n/8a14f0cc1b  44% 102.50M  28.8KB/s    eta 44m 4s /8a14f0cc1b0  44% 102.51M  28.0KB/s    eta 44m 4s 8a14f0cc1b08  44% 102.51M  26.1KB/s    eta 44m 5s a14f0cc1b08d  44% 102.55M  26.4KB/s    eta 44m 5s 14f0cc1b08d5  44% 102.58M  27.3KB/s    eta 44m 4s 4f0cc1b08d53  44% 102.61M  29.9KB/s    eta 44m 4s f0cc1b08d531  44% 102.63M  31.0KB/s    eta 44m 4s 0cc1b08d531e  44% 102.65M  30.0KB/s    eta 44m 4s cc1b08d531eb  44% 102.66M  29.1KB/s    eta 44m 2s c1b08d531eb8  44% 102.67M  28.1KB/s    eta 44m 2s 
